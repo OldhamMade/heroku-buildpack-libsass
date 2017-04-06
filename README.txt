@@ -1,3 +1,3 @@
-Simple buildpack for heroku designed to make sassc available inside a dyno.
+Simple buildpack for heroku designed to make libsass available inside a dyno.
 
-Currently locked at libsass v3.3.6, sassc v3.3.6.
+Currently locked at libsass v3.4.4.
